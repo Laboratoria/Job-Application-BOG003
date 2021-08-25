@@ -45,13 +45,13 @@ Para que puedas registrar el avance de tu proceso, te dejamos este Excel: https:
 Te invitamos a que cada paso lo hagas a conciencia, no se trata de cumplir con el check list anterior, si no de que te sientas cada vez más preparada para afrontar los procesos de colocación.
 
 ## 6. Fechas importantes 
-### 20 de mayo: Inicia el proyecto. 
+### 30 de agosto: Inicia el proyecto. 
 Ten en cuenta que el proyecto se desarrollará en simultáneo con los otros proyectos técnicos del Bootcamp. Te recomendamos organizar tus tiempos de trabajo en ambos proyectos considerando las fechas clave. 
 
-### 14 de junio: Fecha límite para tener una primera versión de tus entregables.
+### 23 de septiembre: Fecha límite para tener una primera versión de tus entregables.
 Es importante que para esta fecha tengas la primera versión de tu CV + LinkedIn, ya que serán insumos necesarios para el apoyo de tu mentor(a)
 
-### 14 de junio: Conocerás a tu mentor(a) y organizarán las sesiones en las que te apoyará. 
+### 23 de septiembre: Conocerás a tu mentor(a) y organizarán las sesiones en las que te apoyará. 
 
-### 6 de agosto: Finaliza el tiempo de trabajo en el proyecto dentro del bootcamp.
+### 26 de noviembre: Finaliza el tiempo de trabajo en el proyecto dentro del bootcamp.
 Sin embargo recuerda que siempre puedes seguir trabajando en los OA que consideres más prioritarios para tu proceso. 
