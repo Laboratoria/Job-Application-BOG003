@@ -38,9 +38,9 @@ Para que al finalizar del bootcamp Laboratoria sea uno de los intermediarios par
   * Github
   * LinkedIn.
 * Por lo menos 1 ronda de simulación de entrevistas de recursos humanos.
-* Por lo menos 1 ronda de simulación de entrevistas técnicas y desafío(s) técnico(s).
+* Por lo menos 1 ronda de simulación de entrevistas técnicas
 
-Para que puedas registrar el avance de tu proceso, te dejamos este Excel: https://docs.google.com/spreadsheets/d/1VipSIZH_y0GQduDOUVfRYpibGyjX4uZCaL4-u-Qk8I8/edit#gid=1623534121 
+Para que puedas registrar el avance de tu proceso, te dejamos este Excel: https://docs.google.com/spreadsheets/d/19T-hyI5CVAa8SVHzZv6Qq4IrVA8_6JxhIXy7oF6uKz0/edit#gid=2023340256 
 
 Te invitamos a que cada paso lo hagas a conciencia, no se trata de cumplir con el check list anterior, si no de que te sientas cada vez más preparada para afrontar los procesos de colocación.
 
